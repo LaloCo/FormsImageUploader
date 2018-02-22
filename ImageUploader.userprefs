@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{ECF94397-8A54-46C2-A4EE-7ECC782627ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+    <Files>
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImageUploader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8DFE9284-BB44-41B2-990D-DB65134DF7A2" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ImageUploader.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ImageUploader.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
