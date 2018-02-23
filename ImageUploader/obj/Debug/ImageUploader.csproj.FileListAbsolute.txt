@@ -21,3 +21,8 @@
 /Users/lalorosas/Projects/ImageUploader/ImageUploader/obj/Debug/ImageUploader.ImageUploaderPage.xaml.g.cs
 /Users/lalorosas/Projects/ImageUploader/ImageUploader/obj/Debug/ImageUploader.dll
 /Users/lalorosas/Projects/ImageUploader/ImageUploader/obj/Debug/ImageUploader.pdb
+/Users/lalorosas/Projects/ImageUploader/ImageUploader/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/lalorosas/Projects/ImageUploader/ImageUploader/bin/Debug/Newtonsoft.Json.dll
+/Users/lalorosas/Projects/ImageUploader/ImageUploader/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/lalorosas/Projects/ImageUploader/ImageUploader/bin/Debug/Newtonsoft.Json.xml
+/Users/lalorosas/Projects/ImageUploader/ImageUploader/bin/Debug/Microsoft.WindowsAzure.Storage.pdb

@@ -50,10 +50,6 @@
 /Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/ImageUploader.iOS.csproj.CoreCompileInputs.cache
 /Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/ImageUploader.iOS.exe
 /Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/ImageUploader.iOS.pdb
-/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
-/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
-/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
 /Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/ImageUploader.iOS.csprojResolveAssemblyReference.cache
 /Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Plugin.Media.Abstractions.dll
 /Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Plugin.Media.dll
@@ -65,3 +61,11 @@
 /Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.pdb
 /Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.Abstractions.xml
 /Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.xml
+/Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/lalorosas/Projects/ImageUploader/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_PartialAppManifest.items
+/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/lalorosas/Projects/ImageUploader/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-11.2/optimized/

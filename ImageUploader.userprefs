@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{ECF94397-8A54-46C2-A4EE-7ECC782627ED}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+﻿<Properties StartupConfiguration="{7DABE03B-EB9B-451A-A3E9-D5668145E325}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageUploader/ImageUploaderPage.xaml.cs">
     <Files>
-      <File FileName="iOS/Info.plist" />
+      <File FileName="ImageUploader/ImageUploaderPage.xaml.cs" Line="62" Column="99" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ImageUploader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8DFE9284-BB44-41B2-990D-DB65134DF7A2" automaticSigning="False">
+  <MonoDevelop.Ide.ItemProperties.ImageUploader.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E598189F-DB14-475D-859B-059F5894183F" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.ImageUploader.iOS>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -27,3 +27,5 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 System.Diagnostics.Tools
+Microsoft.WindowsAzure.Storage
+Newtonsoft.Json

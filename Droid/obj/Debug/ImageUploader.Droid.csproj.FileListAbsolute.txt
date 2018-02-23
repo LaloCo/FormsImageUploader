@@ -65,3 +65,7 @@
 /Users/lalorosas/Projects/ImageUploader/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/lalorosas/Projects/ImageUploader/Droid/obj/Debug/R.cs.flag
 /Users/lalorosas/Projects/ImageUploader/Droid/obj/Debug/uploadflags.txt
+/Users/lalorosas/Projects/ImageUploader/Droid/bin/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/lalorosas/Projects/ImageUploader/Droid/bin/Debug/Newtonsoft.Json.dll
+/Users/lalorosas/Projects/ImageUploader/Droid/bin/Debug/Newtonsoft.Json.xml
+/Users/lalorosas/Projects/ImageUploader/Droid/bin/Debug/Microsoft.WindowsAzure.Storage.pdb

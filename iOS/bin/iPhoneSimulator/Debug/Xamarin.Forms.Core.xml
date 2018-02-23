@@ -1272,6 +1272,12 @@ class MyBindable : BindableObject
             <returns>To be added.</returns>
             <remarks>To be added.</remarks>
         </member>
+        <member name="M:Xamarin.Forms.BindableObject.IsSet(Xamarin.Forms.BindableProperty)">
+            <param name="targetProperty">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
+            <remarks>To be added.</remarks>
+        </member>
         <member name="M:Xamarin.Forms.BindableObject.OnBindingContextChanged">
             <summary>Override this method to execute an action when the BindingContext changes.</summary>
             <remarks />
@@ -2501,6 +2507,15 @@ namespace FormsGallery
         </member>
         <member name="F:Xamarin.Forms.Button.ContentLayoutProperty">
             <summary>Backing store for the <see cref="T:Xamarin.Forms.Button.ContentLayout" /> property.</summary>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="P:Xamarin.Forms.Button.CornerRadius">
+            <summary>To be added.</summary>
+            <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="F:Xamarin.Forms.Button.CornerRadiusProperty">
+            <summary>To be added.</summary>
             <remarks>To be added.</remarks>
         </member>
         <member name="P:Xamarin.Forms.Button.Font">
@@ -7986,6 +8001,13 @@ namespace FormsGallery
         <member name="P:Xamarin.Forms.IListProxy.ProxiedEnumerable">
             <summary>For internal use by platform renderers.</summary>
             <value>To be added.</value>
+            <remarks>To be added.</remarks>
+        </member>
+        <member name="M:Xamarin.Forms.IListProxy.TryGetValue(System.Int32,System.Object@)">
+            <param name="index">To be added.</param>
+            <param name="value">To be added.</param>
+            <summary>To be added.</summary>
+            <returns>To be added.</returns>
             <remarks>To be added.</remarks>
         </member>
         <member name="T:Xamarin.Forms.IListViewController">

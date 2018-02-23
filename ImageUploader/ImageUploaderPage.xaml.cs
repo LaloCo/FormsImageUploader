@@ -1,4 +1,7 @@
-﻿using Plugin.Media;
+﻿using System;
+using System.IO;
+using Microsoft.WindowsAzure.Storage;
+using Plugin.Media;
 using Plugin.Media.Abstractions;
 using Xamarin.Forms;
 
@@ -41,6 +44,22 @@ namespace ImageUploader
             }
 
             selectedImage.Source = ImageSource.FromStream(() => selectedImageFile.GetStream());
+
+            UploadImage(selectedImageFile.GetStream());
+        }
+
+        private async void UploadImage(Stream imageToUpload)
+        {
+            //! added using Microsoft.WindowsAzure.Storage;
+            var account = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=lalorosasimageuploader;AccountKey=rZ3cVm8/5HKLszJ2r33tv04H8coXr14uQkugY+JWWGMDCKMUfAidFFshyF26/vWwl520IBl4a9U4Y/g36hg06A==;EndpointSuffix=core.windows.net");
+            var blobClient = account.CreateCloudBlobClient();
+            var container = blobClient.GetContainerReference("images");
+
+            string uniqueName = Guid.NewGuid().ToString();
+            var blockBlob = container.GetBlockBlobReference($"{uniqueName}.jpg");
+            await blockBlob.UploadFromStreamAsync(imageToUpload);
+
+            string thePlaceInTheInternetWhereThisImageIsNowLocated = blockBlob.Uri.OriginalString;
         }
     }
 }
